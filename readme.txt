@@ -17,8 +17,9 @@ Features :
 - hide bind shell and reverse shell port from netstat
 - hide bind shell and reverse shell process
 - rootkit persistence to survive after reboot
-- hide from lsmod
+- hide module
 - clean logs and bash history during installation
+
 
 =====INSTALLATION=====
 
