@@ -138,4 +138,10 @@ User logs will be cleaned during rootkit installation
 ==Persistence
 
 The rootkit is activated every time the system starts up. After the reboot, wait for 1 minute, the rootkit will be loaded into kernel.
-    
+
+
+==Process Hiding
+This rootkit hides bind shell process and reverse shell process.
+
+==Port Hiding
+This rootkit hides bind shell port and reverse shell port.
