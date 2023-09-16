@@ -27,6 +27,7 @@ This lkm rootkit works on x64 architecture only.
 </p>
 <h3>Installation</h3>
 <p>
+You need root privilege for installing this rootkit.<br>
 In case you have installed linux kernel headers, make and gcc, install it by running the installer script:
 <br>
 <pre>
