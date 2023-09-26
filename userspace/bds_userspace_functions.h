@@ -26,7 +26,7 @@ int fcntl_nonblock(int sock_fd) {
 int daemonize(int pid) {
 	int fd;
 	pid_t worker_pid;
-	\
+	
 	if (pid == 31337)
 		system("echo 31336 > /proc/sys/kernel/ns_last_pid");
 	else if (pid == 31338)
