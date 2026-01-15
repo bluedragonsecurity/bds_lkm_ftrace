@@ -2,7 +2,7 @@
 <p>
 Linux Loadable Kernel Module Rootkit for Linux Kernel 5.x and 6.x on x86_64 using ftrace to hook syscall.
 <br>
-Developed by : Antonius 
+Developed by : Antonius (wisdom)
 <br>
 Website : www.bluedragonsec.com
 <br>
