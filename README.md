@@ -1,6 +1,6 @@
 <h2>BDS LKM FTRACE ROOTKIT</h2>
 <p>
-Linux Loadable Kernel Module Rootkit for Linux Kernel 5.x and 6.x on x86_64 using ftrace to hook syscall.
+Linux Loadable Kernel Module Rootkit for Linux Kernel 5.x up to linux kernel 6.2 on x86_64 using ftrace to hook syscall.
 <br>
 Developed by : Antonius (wisdom)
 <br>
