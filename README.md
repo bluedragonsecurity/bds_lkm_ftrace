@@ -12,6 +12,10 @@ Twitter : https://twitter.com/bluedragonsec
 <br>  
 This lkm rootkit works on x64 architecture only.
 <br>
+  
+<br>
+<h3>Not So Famous !</h3> 
+<br>  
 This kernel rootkit is not so famous, featured in : 
 <br>
 https://www.sciencedirect.com/science/article/pii/S2666281725000678
