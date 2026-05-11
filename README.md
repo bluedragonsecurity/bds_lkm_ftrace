@@ -12,6 +12,19 @@ Twitter : https://twitter.com/bluedragonsec
 <br>  
 This lkm rootkit works on x64 architecture only.
 <br>
+This kernel rootkit is not so famous, featured in : 
+<br>
+https://www.sciencedirect.com/science/article/pii/S2666281725000678
+<br>
+https://packetstorm.news/files/id/174805/
+<br>
+https://www.st.fmph.uniba.sk/~havriuk1/rootkits
+<br>
+https://danielroberson.com/post/linux-rootkit-persistence/
+<br>
+https://www.cliffsnotes.com/study-notes/24535208
+  
+<br>
 <h3>Features</h3> 
 <ul>
   <li>hides files and directories with prefix bds_</li>
