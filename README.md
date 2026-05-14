@@ -15,7 +15,7 @@ This lkm rootkit works on x64 architecture only.
   
 <br>
 <h3>The "Not So Famous" Rootkit</h3> 
-<br>  
+
 This kernel rootkit is not so famous, featured in : 
 <br>
 https://www.sciencedirect.com/science/article/pii/S2666281725000678
